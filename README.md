@@ -9,14 +9,19 @@ https://releases.ubuntu.com/16.04/
 ROS Kinetic
 http://wiki.ros.org/kinetic/Installation/Ubuntu
 
+Ros Kinetic Catkin
+```
+$ sudo apt-get install ros-kinetic-catkin
+$ source /opt/ros/indigo/setup.bash
+$ echo "source /opt/ros/indigo/setup.bash" >> ~/.bashrc
+$ source ~/.bashrc
+```
 Pip
-Conectamos a SSH, actualizamos el software del sistema e instalamos Pip en Ubuntu 16.04
-```
-$ sudo apt-get update
-$ sudo apt-get -y upgrade
-$ sudo apt-get install python-pip
-```
+https://www.rosehosting.com/blog/how-to-install-pip-on-ubuntu-16-04/
+sudo apt-get install python-pip
 
+Catkin-tools
+https://catkin-tools.readthedocs.io/en/latest/installing.html
 
 Copiar repositorio:
 ```
