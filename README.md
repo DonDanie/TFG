@@ -10,6 +10,7 @@ ROS Kinetic
 http://wiki.ros.org/kinetic/Installation/Ubuntu
 
 Instalamos BebopS siguiendo los pasos para nuestra versión de ROS, Ubuntu y Gazebo. 
+https://github.com/gsilano/BebopS
 
 A continuación, explicaremos los pasos para ROS Kinetic, Ubuntu 16.04 y Gazebo 7:
   Instalamos e inicializamos ROS Kinetic desckop full, paquetes adicionales de ROS, catkin-tools y wstool:
