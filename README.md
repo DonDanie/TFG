@@ -1,6 +1,6 @@
 # TFG
-Trabajo de fin de grado para Grado en Electrónica, Robótica y Mecatrónica de la Universidad de Sevilla realizado por Daniel Rosa Danta bajo la tutorización del profesor Manuel Vargas Villanueva
-[@DonDanie](https://github.com/DonDanie)  
+Trabajo de fin de grado para Grado en Electrónica, Robótica y Mecatrónica de la Universidad de Sevilla realizado por Daniel Rosa Danta [@DonDanie](https://github.com/DonDanie) bajo la tutorización del profesor Manuel Vargas Villanueva
+
 
 # Software necesario
 Ubuntu 16.04
