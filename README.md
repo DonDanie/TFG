@@ -9,6 +9,7 @@ https://releases.ubuntu.com/16.04/
 ROS Kinetic
 http://wiki.ros.org/kinetic/Installation/Ubuntu
 
+# Instalación
 Instalamos BebopS siguiendo los pasos para nuestra versión de ROS, Ubuntu y Gazebo. 
 https://github.com/gsilano/BebopS
 
@@ -55,6 +56,7 @@ Por último, agregamos nuestra ubicación a nuestro archivo .bashrc
 $ echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
 $ source ~/.bashrc
 ```
+# Ejecución
 Ahora vamos a correr nuestro proyecto, para ello, primero tendremos que abrir una terminal nueva e iniciar roscore:
 ```
 $ roscore
